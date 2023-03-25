@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fleurdle/static/css/main.32a4b7d7.css",
-    "main.js": "/fleurdle/static/js/main.c0f23c49.js",
+    "main.css": "/fleurdle/static/css/main.7d993c37.css",
+    "main.js": "/fleurdle/static/js/main.2c7f5b28.js",
     "static/js/787.9a2e8c84.chunk.js": "/fleurdle/static/js/787.9a2e8c84.chunk.js",
     "index.html": "/fleurdle/index.html",
-    "main.32a4b7d7.css.map": "/fleurdle/static/css/main.32a4b7d7.css.map",
-    "main.c0f23c49.js.map": "/fleurdle/static/js/main.c0f23c49.js.map",
+    "main.7d993c37.css.map": "/fleurdle/static/css/main.7d993c37.css.map",
+    "main.2c7f5b28.js.map": "/fleurdle/static/js/main.2c7f5b28.js.map",
     "787.9a2e8c84.chunk.js.map": "/fleurdle/static/js/787.9a2e8c84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32a4b7d7.css",
-    "static/js/main.c0f23c49.js"
+    "static/css/main.7d993c37.css",
+    "static/js/main.2c7f5b28.js"
   ]
 }
